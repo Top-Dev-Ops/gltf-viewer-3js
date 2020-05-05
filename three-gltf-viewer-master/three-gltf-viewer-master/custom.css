@@ -1,0 +1,70 @@
+/*.toolbar{
+	background-color: #4caf50;
+	border: none;
+	color: white;
+	padding: 15px 32px;
+	position: absolute;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+*/
+.toolbar-home{
+	background-color: #4caf50;
+	border-radius: 4px;
+	position: absolute;
+  width: 50px;
+  height: 50px;
+  top:85%;
+	left: 30%;
+}
+
+.toolbar-orbit{
+	background-color: #4caf50;
+	border-radius: 4px;
+	position: absolute;
+  width: 50px;
+  height: 50px;
+  top:85%;
+	left: 40%;
+}
+
+.toolbar-pan{
+	background-color: #4caf50;
+	border-radius: 4px;
+	position: absolute;
+  width: 50px;
+  height: 50px;
+  top:85%;
+	left: 50%;
+}
+
+.toolbar-zoom{
+	background-color: #4caf50;
+	border-radius: 4px;
+	position: absolute;
+  width: 50px;
+  height: 50px;
+  top:85%;
+	left: 60%;
+}
+
+.toolbar-measure{
+	background-color: #4caf50;
+	border-radius: 4px;
+	position: absolute;
+  width: 50px;
+  height: 50px;
+  top:85%;
+	left: 70%;
+}
+
+.toolbar-explode{
+	background-color: #4caf50;
+	border-radius: 4px;
+	position: absolute;
+  width: 50px;
+  height: 50px;
+  top:85%;
+	left: 80%;
+}
